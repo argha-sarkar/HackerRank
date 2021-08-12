@@ -9,7 +9,7 @@ HackerRank solution
 
 ## Acknowledgements
 
- - [Introduction](https://https://github.com/argha-sarkar/HackerRank/tree/main/Python/Introduction)
+ - [Introduction](https://github.com/argha-sarkar/HackerRank/tree/main/Python/Introduction)
  - [Basic_Data_Types](https://https://github.com/argha-sarkar/HackerRank/tree/main/Python/Basic_Data_Types)
  
   
