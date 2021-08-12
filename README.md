@@ -4,7 +4,7 @@
     
 # HackerRank
 
-                                HackerRank solution 
+HackerRank solution 
 
 
 ## Acknowledgements
