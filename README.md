@@ -9,7 +9,7 @@ HackerRank solution
 
 ## Acknowledgements
 
- - [Introduction](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Basic_Data_Types](https://github.com/matiassingers/awesome-readme)
+ - [Introduction](https://https://github.com/argha-sarkar/HackerRank/tree/main/Python/Introduction)
+ - [Basic_Data_Types](https://https://github.com/argha-sarkar/HackerRank/tree/main/Python/Basic_Data_Types)
  
   
