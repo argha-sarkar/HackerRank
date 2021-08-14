@@ -1,8 +1,6 @@
-<a>
-  <img align="left" alt="Argha's Medium" height="220px" src="https://raw.githubusercontent.com/argha-sarkar/HackerRank/main/Images/1_UGT1Rh9xLww3JeIDR1F0RQ.png"/>
-</a>
 
-[Logo](src="https://raw.githubusercontent.com/argha-sarkar/HackerRank/main/Images/1_UGT1Rh9xLww3JeIDR1F0RQ.png")
+
+[Logo](https://raw.githubusercontent.com/argha-sarkar/HackerRank/main/Images/1_UGT1Rh9xLww3JeIDR1F0RQ.png)
 
     
 # HackerRank
